@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>hdfsDemo</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>mapReduceDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <repositories>
         <repository>
@@ -45,7 +45,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
 
 </project>
